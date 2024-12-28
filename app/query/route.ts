@@ -1,4 +1,3 @@
- import { db } from "@vercel/postgres";
  import postgres from "postgres";
 
  const DB_URL = `${process.env.POSTGRES_URL}`
